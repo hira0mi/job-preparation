@@ -1,0 +1,4 @@
+venv/
+datasets/*.zip
+datasets/*.csv
+.ipynb_checkpoints/
