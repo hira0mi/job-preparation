@@ -1,4 +1,3 @@
 venv/
-datasets/*.zip
-datasets/*.csv
+datasets/
 .ipynb_checkpoints/
